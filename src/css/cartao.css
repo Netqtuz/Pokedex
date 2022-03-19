@@ -54,7 +54,7 @@
 .cartao-pokemon .cartao-info h3{
   font-size: 20px;
   margin-bottom: 15px;
-  border-bottom:2px solid #6B727A;
+  border-bottom:2px solid #6b727a;
 }
 
 .cartao-pokemon .cartao-info .status, .cartao-pokemon .cartao-info .habilidades{
@@ -63,7 +63,7 @@
 }
 
 .cartao-pokemon .cartao-info .habilidades ul li, .cartao-pokemon .cartao-info .status ul li {
-    border-bottom: 1px solid #C3C4C5;
+    border-bottom: 1px solid #c3c4c5;
     padding: 0 0 5px;
     margin-bottom: 5px;
     font-size: 15px;
@@ -79,7 +79,7 @@
 
 }
 
-.tipo-raio{
+.tipo-eletrico{
  background-color: #fcc719;
 
 }
